@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "React Native: Attach to Packager",
+        "type": "pwa-node",
+        "request": "attach",
+        "port": 19000,
+        "address": "localhost",
+        "restart": true,
+        "sourceMaps": true,
+        "protocol": "inspector",
+        "timeout": 30000
+      }
+    ]
+  }
+  

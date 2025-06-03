@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Activity Growth",
+    "slug": "activity-growth",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {},
+    "entryPoint": "./App.tsx"
+  }
+} 

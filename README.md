@@ -30,10 +30,3 @@ For bonus points, paste any AI-mediated work / chats / artifacts into `ai_coding
 pnpm i        # install dependencies
 pnpm start    # run on native simulator/device
 pnpm web      # run in browser (React-Native-Web)
-```
-
-## Evaluation Criteria
-- Correct implementation of feature-flagged UI components
-- Proper configuration of variant testing
-- Appropriate analytics event tracking
-- Accurate SQL analysis of performance metrics 
